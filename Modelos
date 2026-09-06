@@ -1,2 +1,16 @@
-Registro de avances
-a
+Modelo y proceso de software
+Estabilidad de los requerimientos
+Los requerimientos del proyecto en sus primeras etapas son inciertos, lo que hace necesario distinguir entre lo que puede mantenerse estable y lo que está destinado a cambiar. En este sentido, el objetivo general del sistema se mantiene estable y actúa como guía para todo el proceso de desarrollo, porque expresa la necesidad central que motiva el proyecto y no depende de detalles operativos.
+En contraste, los requerimientos específicos muestran una inestabilidad inicial considerable. Todavía tienen que definirse aspectos como las funcionalidades concretas, las reglas de negocio, las prioridades, los datos necesarios, los permisos, las interfaces, las restricciones y las características de calidad. Estos elementos evolucionan a medida que los usuarios y el equipo técnico profundizan en el problema, entienden mejor las necesidades reales y descubren situaciones que no estaban previstas al comienzo.
+Según Sommerville, durante el proceso de ingeniería de requerimientos, es común que aparezcan nuevas necesidades y que las actividades de análisis, definición y especificación se retroalimenten y avancen iterativamente, permitiendo que el sistema se construya sobre una comprensión cada vez más precisa del dominio y de las expectativas de los usuarios.
+Modelo evolutivo mediante prototipos
+Se seleccionó un modelo evolutivo basado en prototipos, porque el escenario presenta incertidumbre significativa respecto de los requerimientos.
+Los modelos evolutivos son iterativos y se usan cuando los requerimientos cambian con el tiempo. Dentro de estos, el prototipo permite realizar un diseño rápido, construir una representación preliminar y obtener retroalimentación del usuario hasta pulir los requerimientos.
+Justificación de la selección
+El prototipado resulta adecuado porque permite hacer visible lo que inicialmente los usuarios solamente pueden expresar de manera abstracta. Por ejemplo, si un usuario afirma que necesita “un sistema sencillo para registrar ventas”, el equipo puede construir una representación preliminar de esa operación. Al observarla, el usuario podría descubrir que necesita que únicamente determinadas personas puedan modificar una venta, que necesita consultar ventas anteriores o que ciertas operaciones requieran autorización.
+De esta forma, la interacción con el prototipo permite descubrir información que probablemente no habría aparecido mediante una descripción inicial general.
+¿Por qué no seleccionar cascada?
+El modelo en cascada propone un enfoque secuencial, el cual es apropiado cuando los requerimientos se comprenden bien y son estables, pero en este escenario ocurre lo contrario, porque el cliente no puede definir con precisión las funcionalidades antes de comenzar. Por esta razón, el modelo evolutivo resulta más adecuado. La selección depende de las características del proyecto y, especialmente, de la estabilidad de sus requerimientos.
+Prototipos
+Corresponde utilizar prototipos durante las primeras etapas del proyecto para reducir la incertidumbre. Este podrá utilizarse para representar pantallas de gestión de ventas, consultas de productos, gestión de clientes, reportes, navegación general e interacción entre operaciones.
+No será necesario que el prototipo sea completamente funcional. Sommerville señala que los prototipos pueden utilizarse para ayudar a los usuarios a refinar diseños y trabajar sobre escenarios de uso, y que incluso modelos en papel pueden resultar útiles.
