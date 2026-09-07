@@ -1,1 +1,6 @@
-Registro de decisiones
+Visual Paradigm
+Se propone usar Visual Paradigm como herramienta CASE para apoyar las actividades de modelado y documentación del proyecto. CASE significa Computer-Aided Software Engineering y comprende herramientas destinadas a apoyar diferentes actividades de la ingeniería de software. Sommerville incluye entre estas herramientas las usadas para desarrollar modelos gráficos, construir sistemas y apoyar diferentes actividades del desarrollo.
+Aplicación de la herramienta al escenario 
+Visual Paradigm podrá utilizarse para representar y documentar actores, procesos, casos de uso, relaciones, modelos del sistema, arquitectura y la evolución de los modelos. Su uso resulta útil en este escenario porque el problema requiere comunicar y revisar continuamente la comprensión que el equipo tiene del sistema. Por ejemplo, un modelo inicial puede ser presentado a los usuarios. Si estos detectan que una actividad está representada incorrectamente, el modelo puede modificarse antes de avanzar a una implementación definitiva.
+Justificación
+La herramienta CASE facilita la representación, comunicación, modificación y documentación de los modelos. Esto es importante en un escenario evolutivo, donde los modelos pueden cambiar como consecuencia de la información obtenida durante las entrevistas, la evaluación de prototipos o la validación.
