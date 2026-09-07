@@ -1,0 +1,9 @@
+CONCLUSIÓN
+El Escenario N.º 1 muestra que el principal desafío del proyecto consiste en comprender con precisión qué necesita la organización antes de decidir cómo construirlo. La empresa conoce el problema que desea resolver, pero sus usuarios todavía no pueden transformar ese conocimiento en una definición precisa de las funcionalidades. 
+En función de esta problemática se selecciona un modelo evolutivo basado en prototipos, porque permite que los usuarios participen activamente en el descubrimiento de los requerimientos. Los prototipos permiten transformar necesidades abstractas en representaciones concretas que pueden ser discutidas, evaluadas y modificadas.
+La elección también se relaciona con la estabilidad de los requerimientos. Mientras el objetivo general de mejorar la gestión comercial puede mantenerse relativamente estable, los requerimientos específicos pueden evolucionar a medida que la organización comprende mejor sus propias necesidades, por esto un proceso iterativo es más apropiado que uno lineal.
+El patrón Clarificación Iterativa de Requerimientos permite formalizar esta estrategia como una solución reutilizable, porque se puede obtener información, analizarla, modelarla, prototipar, recibir retroalimentación y validar hasta alcanzar un nivel suficiente de precisión.
+Finalmente, el uso de una herramienta CASE como Visual Paradigm permitirá representar y documentar los modelos del sistema, facilitando la comunicación entre los integrantes del equipo y los clientes.
+REFERENCIAS
+Pressman, R. S. (s. f.). Ingeniería del software: Un enfoque práctico.
+Sommerville, I. (2011). Ingeniería de software (9.ª ed.). Pearson Educación
